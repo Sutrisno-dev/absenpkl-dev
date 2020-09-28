@@ -1,0 +1,7 @@
+update aplikasi 
+
+1. penambahan tabel universitas
+2. relasi antara tabel biodata dan universitas
+3. penambahan fitur cek apakah user sudah login
+4. penambahan  pada tambah mahasiswa wajib diisi 
+5. penambahan pilihan universitas di tambah dan edit biodata
